@@ -1,0 +1,6 @@
+{
+  "name": "Electric Bill Calculator",
+  "description": "An advanced electricity bill calculator to split costs among multiple submeters and adjust units dynamically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
